@@ -1,2 +1,2 @@
-# Tarea6_DMichel_MVerea
+# Tarea7_DMichel_MVerea
 Repositorio Tareas 7 y 8
